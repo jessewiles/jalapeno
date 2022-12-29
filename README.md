@@ -7,3 +7,4 @@ This package doesn't really do anything but is used for verification of the cond
 0.1.1 - Foo the new
 0.1.2 - New the foo
 0.1.3 - Foo the new
+0.1.4 - New the foo
