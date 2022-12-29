@@ -10,3 +10,4 @@ This package doesn't really do anything but is used for verification of the cond
 0.1.4 - New the foo
 0.1.5 - Massive changes
 0.1.6 - Bumpity
+0.1.7 - mas movie
