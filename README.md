@@ -5,3 +5,4 @@ This package doesn't really do anything but is used for verification of the cond
 ## Updates
 
 0.1.1 - Foo the new
+0.1.2 - New the foo
