@@ -12,3 +12,4 @@ This package doesn't really do anything but is used for verification of the cond
 0.1.6 - Bumpity
 0.1.7 - mas movie
 0.1.8 - thing1
+0.1.9 - thing2
