@@ -1,6 +1,6 @@
 import unittest
 
-from jalapeno.module1 import Number
+from jalapeno.nums import Number
 
 
 class TestSimple(unittest.TestCase):
