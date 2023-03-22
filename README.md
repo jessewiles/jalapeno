@@ -4,8 +4,7 @@ This package doesn't really do anything but is used for verification of the cond
 
 ## Updates
 
-0.1.1 - Foo the new
-0.1.2 - New the foo
+0.1.1 - Foo the new 0.1.2 - New the foo
 0.1.3 - Foo the new
 0.1.4 - New the foo
 0.1.5 - Massive changes
@@ -18,3 +17,5 @@ This package doesn't really do anything but is used for verification of the cond
 0.1.12 - thing5
 0.1.13 - fix setup
 0.1.14 - fake changey
+0.1.15 - notebook releasey
+
